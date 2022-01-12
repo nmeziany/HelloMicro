@@ -12,7 +12,7 @@ I this project I:
 ## Built With
 
 - HTML and CSS
-  -VSCode
+- VSCode
 
 ## Authors
 
